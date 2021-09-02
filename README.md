@@ -6,7 +6,7 @@
    
 ### D2  
   * [1859](https://swexpertacademy.com/main/code/problem/problemDetail.do) - View  |  [Java 코드](https://github.com/yougi8/SW_Expert_Academy/blob/master/d2/D2_q1859.java)    
-  * 
+   
 ### D3  
   * [1206](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&problemLevel=4&contestProbId=AV134DPqAA8CFAYh&categoryId=AV134DPqAA8CFAYh&categoryType=CODE&problemTitle=&orderBy=RECOMMEND_COUNT&selectCodeLang=ALL&select-1=4&pageSize=10&pageIndex=1) - View  |  [Java 코드](https://github.com/yougi8/SW_Expert_Academy/blob/master/d3/d3_1206_view.java)    
   * [2806](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&problemLevel=4&contestProbId=AV7GKs06AU0DFAXB&categoryId=AV7GKs06AU0DFAXB&categoryType=CODE&problemTitle=&orderBy=RECOMMEND_COUNT&selectCodeLang=ALL&select-1=4&pageSize=10&pageIndex=1) - NQueen | [Java 코드](https://github.com/yougi8/SW_Expert_Academy/blob/master/d3/d3_2806_NQueen.java)  
